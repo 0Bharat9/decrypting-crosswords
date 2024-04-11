@@ -16,7 +16,7 @@ def cross(puzzle_file):
         print_grid(solution)
         print("* Gold Solution *")
         print_grid(crossword.letter_grid)
-        solver.evaluate(solution)
+        #solver.evaluate(solution)
         return solution
 
     
