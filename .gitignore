@@ -10,6 +10,27 @@ test/
 client_secret.json
 test.html
 checkpoints
+uploaded_puzzles
+.circlei
+codecov.yml
+.coveragerc
+deploy_multi_version_doc.sh
+hubconf.py
+docker/
+docs/
+Makefile
+MANIFEST.in
+examples/
+.github/
+model_cards/ 
+notebooks/
+setup.cfg 
+setup.py
+templates/
+tests/
+utils/
+valohai.yaml
+berserk
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
