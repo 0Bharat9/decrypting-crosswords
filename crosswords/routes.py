@@ -6,8 +6,8 @@ from crosswords.modal import puzzle_data, blocked_cells, open_cells
 from werkzeug.utils import secure_filename
 import os
 from crosswords.crossform import PuzzForm
-from crosswords.crosswordsolver.crosssolve import cross
-from flask_login import login_required
+# from crosswords.crosswordsolver.crosssolve import cross
+# from flask_login import login_required
 
 
 
