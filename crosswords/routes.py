@@ -2,11 +2,10 @@ from app import app
 from flask import render_template as rt, request, session
 from flask_login import login_required
 from crosswords.modal import puzzle_data, blocked_cells, open_cells
-
 from werkzeug.utils import secure_filename
 import os
 from crosswords.crossform import PuzzForm
-# from crosswords.crosswordsolver.crosssolve import cross
+from crosswords.decryptor.crosssolve import cross
 # from flask_login import login_required
 
 
