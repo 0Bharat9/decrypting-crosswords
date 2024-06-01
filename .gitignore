@@ -11,7 +11,7 @@ client_secret.json
 test.html
 checkpoints
 uploaded_puzzles
-.circlei
+.circleci
 codecov.yml
 .coveragerc
 deploy_multi_version_doc.sh
